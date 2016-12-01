@@ -1,0 +1,44 @@
+toyota,Toyota
+ford,Ford
+honda,Honda
+chevrolet,Chevrolet
+nissan,Nissan
+bmw,BMW
+mazda,Mazda
+hyundai,Hyundai
+mercedes-benz,Mercedes-Benz
+volkswagen,Volkswagen
+audi,Audi
+lexus,Lexus
+dodge,Dodge
+jeep,Jeep
+subaru,Subaru
+acura,Acura
+kia,Kia
+infiniti,Infiniti
+gmc,GMC
+cadillac,Cadillac
+chrysler,Chrysler
+volvo,Volvo
+mitsubishi,Mitsubishi
+buick,Buick
+porsche,Porsche
+land-rover,Land Rover
+lincoln,Lincoln
+jaguar,Jaguar
+scion,Scion
+mini,MINI
+tesla,Tesla
+suzuki,Suzuki
+ram,Ram
+fiat,Fiat
+smart,smart
+alfa-romeo,Alfa Romeo
+aston-martin,Aston Martin
+bentley,Bentley
+ferrari,Ferrari
+genesis,Genesis
+lamborghini,Lamborghini
+lotus,Lotus
+maserati,Maserati
+rolls-royce,Rolls-Royce

@@ -1,0 +1,9 @@
+[client]
+host=127.0.0.1
+user=ydata
+password=ydata
+port=3306
+database=ydata
+
+[mysql]
+local-infile
